@@ -19,13 +19,13 @@ header{
 .texto{
     margin-right: 5%;
 }
-.categorias-videos{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap:10px;
     background: #6bb38e;
 }
-.categorias-videos img{
+.categoria-videos img{
     opacity: 0.5;
     height: 200px;
     }
