@@ -20,8 +20,14 @@ body {
     margin-right: 5%;
 }
 
-img{
+.categorias-videos img{
+    opacity: 0.5;
     height: 200px;
+    }
+.categorias-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+
 }
 .categoria-videos{
     display: flex;
