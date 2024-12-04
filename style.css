@@ -29,7 +29,8 @@ header{
     opacity: 0.5;
     height: 200px;
     }
-.categorias-videos img:hover {
+
+.categoria-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
 }
