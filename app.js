@@ -4,7 +4,7 @@
 
  // Adicionar o efeito ao passar o mouse
  image.addEventListener('mouseenter', () => {
-   image.style.transform = 'scale(1.5)'; // Aumenta a escala
+   image.style.transform = 'scale(1.2)'; // Aumenta a escala
  });
 
  // Remover o efeito ao tirar o mouse
