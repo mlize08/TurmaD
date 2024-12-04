@@ -1,5 +1,6 @@
  // Selecionar a imagem
  const image = document.getElementById('hover-image');
+ 
 
  // Adicionar o efeito ao passar o mouse
  image.addEventListener('mouseenter', () => {
